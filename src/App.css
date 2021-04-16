@@ -1,0 +1,35 @@
+.page {
+  font-family: "Georgia"; 
+  font-size: large;
+  line-height: 1.6;
+  margin-top: 5%; 
+  margin-left: 20%;
+  margin-right: 20%; 
+  margin-bottom: 10%;
+}
+
+.header {
+  display: flex; 
+  justify-content: space-around;
+}
+
+
+a:link, a:visited {
+  text-decoration: none;
+  color: black; 
+}
+
+a:active, a:hover{
+  color: rgb(103, 93, 242)
+}
+
+body {
+  background-color: rgba(244, 215, 169, 0.654);
+}
+
+mark {
+  background-color:rgba(198, 205, 254, 0.504); 
+  border-radius: 4px;
+  margin: 1%;
+  box-shadow: 2px 1px 1px rgba(113, 128, 246, 0.675); 
+}
