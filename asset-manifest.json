@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shannonbonet/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/shannonbonet/static/js/main.fdda1379.chunk.js",
+    "main.js.map": "/shannonbonet/static/js/main.fdda1379.chunk.js.map",
+    "runtime-main.js": "/shannonbonet/static/js/runtime-main.36fa1137.js",
+    "runtime-main.js.map": "/shannonbonet/static/js/runtime-main.36fa1137.js.map",
+    "static/js/2.794e6d78.chunk.js": "/shannonbonet/static/js/2.794e6d78.chunk.js",
+    "static/js/2.794e6d78.chunk.js.map": "/shannonbonet/static/js/2.794e6d78.chunk.js.map",
+    "static/js/3.25345cbb.chunk.js": "/shannonbonet/static/js/3.25345cbb.chunk.js",
+    "static/js/3.25345cbb.chunk.js.map": "/shannonbonet/static/js/3.25345cbb.chunk.js.map",
+    "index.html": "/shannonbonet/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/shannonbonet/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.794e6d78.chunk.js.LICENSE.txt": "/shannonbonet/static/js/2.794e6d78.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shannonbonet/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36fa1137.js",
+    "static/js/2.794e6d78.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.fdda1379.chunk.js"
+  ]
+}
